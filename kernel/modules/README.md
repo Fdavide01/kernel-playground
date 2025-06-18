@@ -36,7 +36,14 @@ The directory contains a `Makefile` with predefined targets to manage the build 
 
 ## Mounting Instructions
 
-In the VM
+For access in the VM
+
+```bash
+cd /kernel-playground/tests/vm
+./run.sh
+```
+
+In the VM 
 
 ```bash
 cd /mnt/shared
