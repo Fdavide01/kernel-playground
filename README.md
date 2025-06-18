@@ -34,13 +34,13 @@ Contains:
 
 ## How to Get Started
 
-1. Navigate to the `podman` folder:
+1. Navigate to the `modules` folder:
 
    ```bash
-   cd podman
+   cd kernel/modules
    ```
 
-2. Follow the instructions provided in the `README.md` within the `podman` folder to set up the containerized environment.
+2. Follow the instructions provided in the `README.md` within the `modules` folder to set up the containerized environment.
 
 ---
 
